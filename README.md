@@ -1,2 +1,2 @@
 # orgs-cesta
-App feito com React Native através de um curso da Alura
+App de cesta de produtos feito com React Native através de um curso da Alura
